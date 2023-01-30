@@ -1,0 +1,86 @@
+.header{
+  background-image: url(../img/pattern.png);
+  background-color: rgb(68, 68, 200);
+  background-size: contain;
+  height: 100px;
+}
+
+.logo{
+  height: 30px;
+  padding-left: 10px;
+  padding-top: 60px;
+}
+
+.data{
+  color: grey;
+  font-size: 10px;
+}
+
+.autore{
+  color: grey;
+  font-size: 12px;
+}
+
+.the-booleaner{
+  color: skyblue;
+}
+
+.titolo{
+  margin-bottom: 0;
+}
+
+.immagini{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+
+.didascalia {
+  font-size: 10px;
+}
+
+.giallo{
+  background-color: yellow;
+}
+
+ul {
+  margin-left: 0;
+}
+
+.tabella{
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 10px;
+  line-height: 30px;
+}
+
+.intestazione-tabella{
+  background-color: aqua;
+}
+
+.footer{
+  color: grey;
+  font-size: 12px;
+}
+
+.footer-1{
+  background-image: url(../img/monitor.jpg);
+  background-size: cover;
+  color: white;
+  width: 150px;
+  height: 100px;
+  padding-top: 5px;
+  padding-left: 5px;
+  font-size: 12px;
+}
+
+.footer-2{
+  background-image: url(../img/graph.jpg);
+  background-size: cover;
+  color: white;
+  width: 150px;
+  height: 100px;
+  padding-top: 5px;
+  padding-left: 5px;
+  font-size: 12px;
+  margin-top: 5px;
+}
