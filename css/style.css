@@ -1,18 +1,20 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 .header{
   background-image: url(../img/pattern.png);
-  background-color: rgb(68, 68, 200);
-  background-size: 32%;
+  background-color: #4ea0ff;
+  background-size: 30%;
+  padding-top: 24px;
+  padding-bottom: 10px;
+  padding-left: 10px;
 }
 
 .logo{
-  height: 30px;
-  padding-left: 10px;
-  padding-top: 50px;
+  width: 150px;
 }
 
 .data{
@@ -58,11 +60,11 @@ ul {
 }
 
 .intestazione-tabella{
-  background-color: aqua;
+  background-color: #20a9e5;
 }
 
 .colonna-colore{
-  background-color: aquamarine;
+  background-color: #b1e5f2;
 }
 
 .footer{
